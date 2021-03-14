@@ -1,0 +1,4 @@
+Bubble sort:
+n=1000 max=1000
+0.0060015s
+Asteptarea pentru bubble sort e o durere pentru n>10^5.
