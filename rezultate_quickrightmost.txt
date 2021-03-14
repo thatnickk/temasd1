@@ -1,0 +1,8 @@
+Quicksort clasic cu pivot ultimul element:
+n=1000 max=1000
+0s
+n=1000000 max=1000000
+0.233052s
+n=1000 max=1000000000
+0s
+Pentru testele 3 si 4(n=10^8) da stack overflow
